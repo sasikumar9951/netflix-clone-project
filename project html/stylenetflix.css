@@ -67,10 +67,6 @@ h4 {
   height: 55px;
   cursor: pointer;
   width: 150px;
-  /* margin-top: 40px; */
-  /* font-size: larger; */
-  /* border-radius: 10px; */
-
   margin-left: 10px;
 }
 .s3 ::placeholder {
@@ -130,41 +126,6 @@ h4 {
   margin-right: 40px;
   cursor: pointer;
 }
-/* #num1 {
-  position: absolute;
-  height: 100px;
-  width: 100px;
-  top: 130px;
-  left: -40px;
-}
-#num2 {
-  position: absolute;
-  height: 100px;
-  width: 100px;
-  top: 130px;
-  left: 153px;
-}
-#num3 {
-  position: absolute;
-  height: 100px;
-  width: 100px;
-  top: 130px;
-  left: 346px;
-}
-#num4 {
-  position: absolute;
-  height: 100px;
-  width: 100px;
-  top: 130px;
-  left: 540px;
-}
-#num5 {
-  position: absolute;
-  height: 100px;
-  width: 100px;
-  top: 130px;
-  left: 737px;
-} */
 .m11 img:hover {
   zoom: 1.2;
   transition-property: all;
@@ -198,6 +159,5 @@ h4 {
 }
 .m22 :hover {
   background-color: slategray;
-
   color: aliceblue;
 }
